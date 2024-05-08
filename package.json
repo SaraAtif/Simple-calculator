@@ -2,7 +2,7 @@
   "name": "@sara-atif-01/cli-calculator",
   "version": "1.0.1",
   "description": "A simple calculator with typescipt, node.js & inquirer",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
