@@ -1,9 +1,13 @@
 {
-  "name": "cli-calculator",
-  "version": "1.0.0",
+  "name": "@sara-atif-01/cli-calculator",
+  "version": "1.0.1",
   "description": "A simple calculator with typescipt, node.js & inquirer",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
