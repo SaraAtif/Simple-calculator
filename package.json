@@ -1,5 +1,5 @@
 {
-  "name": "@sara-atif-01/cli-calculator",
+  "name": "@sara_atif_02/cli_calculator",
   "version": "1.0.1",
   "description": "A simple calculator with typescipt, node.js & inquirer",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "inquirer": "^9.2.20"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "hardhat": "^2.22.3"
   }
 }
